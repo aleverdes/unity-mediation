@@ -24,6 +24,6 @@
 
 Usage:
 
-```
+```csharp
 DoubleCoinsReardedAd.Show();
 ```
