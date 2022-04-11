@@ -2,7 +2,7 @@
 
 ## Interstitial:
 
-```
+```csharp
     public class LoseInterstitialAd : InterstitialAd
     {
     }
@@ -10,7 +10,7 @@
 
 ## Rewarded
 
-```
+```csharp
     public class DoubleCoinsReardedAd : RewardedAd
     {
         protected override void OnUserRewarded(object sender, RewardEventArgs args)
